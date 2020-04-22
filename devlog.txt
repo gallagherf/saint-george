@@ -1,0 +1,14 @@
+
+2/15/2020
+
+The website is now working for nouns.
+
+The current dictionary being used is dictionary.json. dictionary02.json is also accessible, but is only nouns. I'm trying to clean up dictionary.json to the point where it's functioning in a way that makes all the entries accessible.
+
+Start small, deal with one category at a time.
+
+Solve the problem of the parentheses
+	- find out what they mean
+	- consider creating double entries
+	
+Think about a way to easily create double entries
